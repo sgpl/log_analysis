@@ -1,0 +1,18 @@
+vagrant@vagrant:/vagrant$ python log_analysis.py ## command used to run the program on terminal. 
+
+The three most popular articles are:
+
+      Article Name:  Candidate is jerk, alleges rival  ---  338647  views
+      Article Name:  Bears love berries, alleges bear  ---  253801  views
+      Article Name:  Bad things gone, say good people  ---  170098  views
+
+The authors in order of their popularity are:
+
+      Author Name:  Ursula La Multa  ---  507594  views
+      Author Name:  Rudolf von Treppenwitz  ---  423457  views
+      Author Name:  Anonymous Contributor  ---  170098  views
+      Author Name:  Markoff Chaney  ---  84557  views
+
+The date(s) on which the errors were greater than 1 percent:
+
+      Date:  2016-07-17  ---  2.2626862468  percent errors!
